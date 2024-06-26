@@ -15,10 +15,7 @@ h1,h2,h3,h4,h5,h6,p{
     padding: 0;
     line-height: 0.8;
 }
-.custom_container{
-    max-width: 1320px;
-    margin: 0 auto;
-}
+
 /* All Common CSS End */
 
 /* header_part Start */
